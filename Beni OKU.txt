@@ -1,0 +1,10 @@
+--> HER ÞEYDEN ÖNCE KLASÖRÜ OLDUÐU GÝBÝ 'MASAÜSTÜNE' ÇIKARTTIÐINIZDAN EMÝN OLUN. AKSÝ TAKTÝRDE HATA VERECEKTÝR.
+
+--> PROGRAMLARI BAÞLATIRKEN MUTLAKA SAÐ TIKLAYIP, YÖNETÝCÝ OLARAK ÇALIÞTIR' I SEÇÝN.
+
+--> BÝLGÝSAYARINIZDA TARAYICI OLARAK GOOGLE CHROME KURULU OLDUÐUNDAN EMÝN OLUN.
+
+--> BÝLGÝSAYARINIZDA PYTHON 3 ve Üzeri KURULU DEÐÝLSE PROGRAMI YÜKLE'YÝ YÖNETÝCÝ OLARAK ÇALIÞTIRARAK PYTHON'U YÜKLEYÝN.
+
+--> Bu iþlemden sonra programý baþlat'a sað týklayýp, yönetici olarak çalýþtýr
+diyerek programý açabilir, ÖBS kullanýcý adý ve þifrenizi girebilirsiniz.
